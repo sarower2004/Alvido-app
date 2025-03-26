@@ -1,0 +1,11 @@
+ *{
+    background: #3e5188;
+} 
+.menu{
+    display: flex;
+}
+.main-menu{
+    display: flex;
+    gap: 200px;
+   
+}
